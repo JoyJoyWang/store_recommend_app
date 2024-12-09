@@ -7,13 +7,11 @@ This project provides a web-based application to compare and test different reco
 The web app features:
 
 - A visually appealing and user-friendly interface.
-- Integration with a robust backend.
+- Integration with a postgresql backend.
 - Deployment of a database on Heroku and an image library on GitHub Pages.
 - Capability to test and measure the effectiveness of recommendation algorithms directly within the app.
 
 The application is deployed at: [Web App Link](https://spec-project-store-recommend-app.streamlit.app/)
-
-This project demonstrates the potential of recommendation systems in a practical setting, offering a streamlined platform for testing, optimizing, and understanding algorithm performance. It is ideal for both developers and researchers looking to innovate in the recommendation space.
 
 The photo data used in this application is hosted on GitHub Pages, providing an easily accessible and scalable solution for serving images. The photos are stored in the repository [JoyJoyWang/yelp_photo](https://github.com/JoyJoyWang/yelp_photo) and can be accessed directly via the GitHub Pages URL. This setup ensures that the application can efficiently fetch and display images without requiring additional image hosting services.
 
