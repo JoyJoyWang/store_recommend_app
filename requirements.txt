@@ -2,5 +2,6 @@ streamlit
 bcrypt
 psycopg2-binary
 streamlit-cookies-manager
-numpy  # Optional, if needed
-pandas  # Optional, if needed
+numpy
+pandas
+python-dotenv
